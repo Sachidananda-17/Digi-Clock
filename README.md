@@ -28,4 +28,4 @@ To run the Digi Clock project on your local device, follow these steps:
 1. Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/Digi-Clock.git
+git clone https://github.com/sachidananda-17/Digi-Clock.git
