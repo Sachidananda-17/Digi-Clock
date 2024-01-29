@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img src="digi_clock_preview.png" alt="Digi Clock Preview">
+    <img src="https://github.com/Sachidananda-17/Digi-Clock/blob/main/Screenshot%202024-01-29%20153300.png" alt="Digi Clock Preview">
 </p>
 
 Digi Clock is a simple digital clock developed using HTML, CSS, and JavaScript. The clock displays the current date, day, and time, offering a functional and straightforward user experience.
